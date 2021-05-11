@@ -1,0 +1,4 @@
+
+Lien pour lecture fichier txt avec séparateur:
+
+https://openclassrooms.com/forum/sujet/qt-lecture-dans-un-fichier-txt-affectation-dans-tableau-80308
